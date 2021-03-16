@@ -69,5 +69,5 @@ http-request https:\/\/ios\.baertt\.com\/v5\/user\/stay\.json script-path=https:
 
 
 
-hostname = ios.baertt.com, kd.youth.cn,m.weibo.cn,h5.ele.me,webapi.qmai.cn,api.m.jd.com,ifac*.iqiyi.com,*.rr.tv,*.video.qq.com,i.meituan.com, promotion.waimai.meituan.com,m.client.10010.com, act.10010.com,activity-1.m.duiba.com.cn,api.weibo.cn, pay.sc.weibo.com,
+hostname = ios.baertt.com, kd.youth.cn,m.weibo.cn,h5.ele.me,webapi.qmai.cn,api.m.jd.com,ifac*.iqiyi.com,*.rr.tv,*.video.qq.com,i.meituan.com, promotion.waimai.meituan.com,m.client.10010.com, act.10010.com,activity-1.m.duiba.com.cn,api.weibo.cn, pay.sc.weibo.com,gaoqingdianshi.com
 
