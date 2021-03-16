@@ -6,6 +6,7 @@ http-request ^https:\/\/m\.weibo\.cn\/feed\/ script-path=https://raw.githubuserc
 #饿了么
 http-request ^https:\/\/h5\.ele\.me\/restapi\/eus\/v\d\/current_user$ script-path=https://raw.githubusercontent.com/songyangzz/QuantumultX/master/elem/elemGetCookies.js, tag=饿了么
 
+
 #奈雪
 http-request ^https:\/\/webapi\.qmai\.cn\/web\/cy\/v\d\/store\/template-scene script-path=https://raw.githubusercontent.com/zZPiglet/Task/master/Naixue/Naixue.js, tag=奈雪cookie
 
